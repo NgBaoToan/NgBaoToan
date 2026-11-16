@@ -1,0 +1,34 @@
+{
+  "handle": "toan149",
+  "info": {
+    "handle": "toan149",
+    "rank": "pupil",
+    "rating": 1315,
+    "maxRank": "pupil",
+    "maxRating": 1315
+  },
+  "info_updated_at": "2026-11-16T10:54+00:00",
+  "history": [
+    {
+      "contestId": 2272,
+      "ratingUpdateTimeSeconds": 1793033400,
+      "newRating": 493
+    },
+    {
+      "contestId": 2283,
+      "ratingUpdateTimeSeconds": 1793810700,
+      "newRating": 837
+    },
+    {
+      "contestId": 2280,
+      "ratingUpdateTimeSeconds": 1794071100,
+      "newRating": 1177
+    },
+    {
+      "contestId": 2285,
+      "ratingUpdateTimeSeconds": 1794760500,
+      "newRating": 1315
+    }
+  ],
+  "history_updated_at": "2026-11-16T10:54+00:00"
+}
